@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Winter Coat",
+    "base": "Winter Collection",
+    "price": "500.00",
+    "rating": 4.8,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": false,
+    "category": "Coats",
+    "description": "A warm and stylish winter coat designed to keep you cozy during cold seasons. Perfect for layering and protection against the chilly weather."
+  },
+  {
+    "id": 2,
+    "name": "Men's Winter Jacket",
+    "base": "Winter Collection",
+    "price": "450.00",
+    "rating": 4.7,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": true,
+    "category": "Coats",
+    "description": "A sleek and warm men's winter jacket that offers great insulation and a modern fit. Ideal for everyday wear in colder months."
+  },
+  {
+    "id": 3,
+    "name": "Cozy Winter Coat",
+    "base": "Winter Collection",
+    "price": "550.00",
+    "rating": 4.9,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": true,
+    "category": "Coats",
+    "description": "This cozy winter coat provides excellent warmth and comfort, featuring a soft inner lining and stylish outer design."
+  },
+  {
+    "id": 4,
+    "name": "Fleece Lined Coat",
+    "base": "Winter Collection",
+    "price": "420.00",
+    "rating": 4.5,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": false,
+    "category": "Coats",
+    "description": "A warm fleece-lined coat designed to provide maximum insulation while maintaining a stylish and classic look."
+  },
+  {
+    "id": 5,
+    "name": "Leather Winter Coat",
+    "base": "Winter Collection",
+    "price": "600.00",
+    "rating": 4.6,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": true,
+    "category": "Coats",
+    "description": "A premium leather winter coat that combines warmth with sophistication. Perfect for making a fashion statement in cold weather."
+  },
+  {
+    "id": 6,
+    "name": "Baby Jeans",
+    "base": "Baby Essentials",
+    "price": "30.00",
+    "rating": 4.5,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": true,
+    "category": "Jeans",
+    "description": "Soft and comfortable jeans designed specifically for babies, ensuring a snug fit without restricting movement."
+  },
+  {
+    "id": 7,
+    "name": "Toddler Jeans",
+    "base": "Baby Essentials",
+    "price": "28.00",
+    "rating": 4.3,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": false,
+    "category": "Jeans",
+    "description": "Durable and stylish jeans for toddlers, offering great flexibility and comfort for active little ones."
+  },
+  {
+    "id": 8,
+    "name": "Kids Skinny Jeans",
+    "base": "Children's Wear",
+    "price": "35.00",
+    "rating": 4.6,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": true,
+    "category": "Jeans",
+    "description": "Trendy and comfortable skinny jeans for kids, made with stretchable fabric for a perfect fit."
+  },
+  {
+    "id": 9,
+    "name": "Boys' Denim Jeans",
+    "base": "Boys Wear",
+    "price": "38.00",
+    "rating": 4.4,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": false,
+    "category": "Jeans",
+    "description": "Classic denim jeans designed for boys, combining durability with a stylish appearance."
+  },
+  {
+    "id": 10,
+    "name": "Baby Boy Jeans",
+    "base": "Baby Essentials",
+    "price": "32.00",
+    "rating": 4.7,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": true,
+    "category": "Jeans",
+    "description": "Adorable and soft baby boy jeans that ensure maximum comfort while maintaining a stylish look."
+  },
+  {
+    "id": 11,
+    "name": "Women's Casual Jacket",
+    "base": "Women's Wear",
+    "price": "75.00",
+    "rating": 4.5,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": true,
+    "category": "Jackets",
+    "description": "A lightweight and fashionable jacket for women, perfect for casual outings and layering."
+  },
+  {
+    "id": 12,
+    "name": "Men's Leather Jacket",
+    "base": "Men's Wear",
+    "price": "120.00",
+    "rating": 4.8,
+    "image": "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer.jpg",
+    "isOnSale": false,
+    "category": "Jackets",
+    "description": "A stylish men's leather jacket that offers both warmth and a rugged aesthetic for any occasion."
+  }
+]
