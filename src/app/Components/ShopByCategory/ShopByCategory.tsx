@@ -15,7 +15,7 @@ export const categories = [
     image: "https://axarobd.com/wp-content/uploads/2024/09/DSCF1915.webp", // Replace with actual image URL
   },
   {
-    name: "Trouser",
+    name: "trouser",
     items: 8,
     image:
       "https://artisanclick.com/wp-content/uploads/2023/12/MG_2979-scaled.jpg", // Replace with actual image URL
