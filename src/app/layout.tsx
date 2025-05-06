@@ -4,7 +4,7 @@ import "./globals.css";
 import Navbar from "./Components/Shared/Navbar/Navbar";
 import Footer from "./Components/Shared/Footer/Footer";
 import { AuthProvider } from "./context/AuthContext";
-import Script from "next/script"; // <-- import Script
+import Script from "next/script";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -29,8 +29,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* Meta Pixel Script */}
-        <Script id="meta-pixel" strategy="afterInteractive">
+        {/* Facebook Pixel Script */}
+        <Script id="facebook-pixel" strategy="afterInteractive">
           {`
             !function(f,b,e,v,n,t,s)
             {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -40,7 +40,7 @@ export default function RootLayout({
             t.src=v;s=b.getElementsByTagName(e)[0];
             s.parentNode.insertBefore(t,s)}(window, document,'script',
             'https://connect.facebook.net/en_US/fbevents.js');
-            fbq('init', '1324201201977198');
+            fbq('init', '2069621456736455');
             fbq('track', 'PageView');
           `}
         </Script>
@@ -48,13 +48,13 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {/* NoScript fallback */}
+        {/* Facebook Pixel NoScript Fallback */}
         <noscript>
           <img
             height="1"
             width="1"
             style={{ display: "none" }}
-            src="https://www.facebook.com/tr?id=1324201201977198&ev=PageView&noscript=1"
+            src="https://www.facebook.com/tr?id=2069621456736455&ev=PageView&noscript=1"
           />
         </noscript>
 
